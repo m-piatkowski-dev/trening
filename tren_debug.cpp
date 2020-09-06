@@ -1,7 +1,7 @@
 #include <iostream>
 
 void func(int, int);
-
+static int nowa_zmiana = 10;
 
 int main()
 {
