@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string>
 void func(int, int);
 static int nowa_zmiana = 10;
 
