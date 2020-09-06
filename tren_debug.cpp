@@ -11,6 +11,8 @@ int main()
     func(10,12);
     func(100,200);
     func(-2,-10);
+
+	func(10,15);
 }
 
     void func(int a, int b)
